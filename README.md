@@ -6,11 +6,11 @@ Le présent code de bonne conduite vise à poser certains principes pour s’ass
 
 1. Règles de politesse
 
-La politesse et la bienveillance sont essentiels. La parole électronique est parfois abrupte et il important à la fois de présumer que les intentions de vos interlocuteurs sont positives et de s’assurer dans ses propres propos que ceux-ci ne sont pas blessants ou injustement négatifs pour un tiers. Les commentaires sur des tiers, leurs travaux ou contributions sont utiles, mais ils doivent être constructifs, mesurés et formulés en des termes qui n’offensent pas.
+La politesse et la bienveillance sont essentielles. La parole électronique est parfois abrupte et il est important à la fois de présumer que les intentions de vos interlocuteurs sont positives et de s’assurer dans ses propres propos que ceux-ci ne sont pas blessants ou injustement négatifs pour un tiers. Les commentaires sur des tiers, leurs travaux ou contributions sont utiles, mais ils doivent être constructifs, mesurés et formulés en des termes qui n’offensent pas.
 
 2. Discriminations et insultes
 
-Nous aspirons à procurer à tous un environnement de discussion agréable et ouvert. Les insultes, injures et propos grossiers dirigés contre une personne ou entreprise, de même que tout comportement de harcèlement de quelque nature, sont proscrits. Tous propos discriminatoires, fondés par exemple sur le sexe, la religion, l’orientation sexuelle, la race, l’orientation politique, l’âge, la nationalité, l’apparence physique, ou autres caractéristiques, sont proscrits. Les comportements contraires à la loi sont interdits et il est rappelé que de tels comportements peuvent parfois donner lieu à des poursuites judiciaires.
+Nous aspirons à procurer à tous un environnement de discussion agréable et ouvert. Les insultes, injures et propos grossiers dirigés contre une personne ou entreprise, de même que tout comportement de harcèlement de quelque nature, sont proscrits. Tous propos discriminatoires, fondés par exemple sur le sexe, la religion, l’orientation sexuelle, la race, l’orientation politique, l’âge, la nationalité, l’apparence physique, ou autres caractéristiques, sont proscrits. Les comportements contraires aux lois applicables sont interdits et il est rappelé que de tels comportements peuvent parfois donner lieu à des poursuites judiciaires.
 
 3. Liens, images et contenus
 
