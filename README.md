@@ -1,6 +1,6 @@
 # GODOT FRANCOPHONE - CODE DE BONNE CONDUITE
 
-La communauté francophone liée au projet Godot est une communauté ouverte à tous, dont l’objectif est de procurer à tous ceux qui s’intéressent au moteur de jeu Godot, à quelque titre que ce soit, un environnement de discussion et d’entraide agréable, efficace et ouvert. Cette communauté s’organise autour de la chaîne Discord [lien vers la chaîne].
+La communauté francophone liée au projet Godot est une communauté ouverte à tous, dont l’objectif est de procurer à tous ceux qui s’intéressent au moteur de jeu Godot, à quelque titre que ce soit, un environnement de discussion et d’entraide agréable, efficace et ouvert. Cette communauté s’organise autour du serveur Discord: https://discordapp.com/invite/NQVd34V.
 
 Le présent code de bonne conduite vise à poser certains principes pour s’assurer que les échanges au sein de la communauté francophone en respectent la philosophie et les objectifs. La philosophie générale de la communauté Godot est exprimée dans un document publié sur le site officiel Godot (https://godotengine.org/code-of-conduct), auquel il est ici renvoyé.
 
