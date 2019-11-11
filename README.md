@@ -1,4 +1,4 @@
-# GODOT FRANCOPHONE - CODE DE BONNE CONDUITE
+# GODOT FRANCOPHONE - RÉGLEMENT
 
 La communauté francophone Godot est ouverte à tous. Elle offre un environnement de discussion et d'entraide agréable à tous ceux qui s'intéressent au moteur de jeu Godot. Nous nous retrouvons principalement sur le serveur Discord Godot Engine Francophone [lien vers le serveur]. Nous possédons également un site web sur lequel vous pourrez retrouver bon nombre de ressources : [lien du site web].
 
