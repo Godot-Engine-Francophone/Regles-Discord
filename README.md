@@ -5,7 +5,7 @@ Bienvenue sur le serveur Discord de **Godot Francophone**. Nous sommes la commun
 - Traduire le moteur
 - Discuter de Godot et du développement de jeu
 - Participer à des ateliers, conférences, game jams
-- Intégrer une communauté d'amateurs
+- Intégrer une communauté de passioné.e.s
 
 # COMMENT POSER UNE QUESTION
 (Peut-être mettre ça ailleurs)
@@ -28,9 +28,10 @@ Vous pouvez mettre le nom de n'importe quel langage comme : javascript, js, cs, 
 
 # :scroll: CODE DE CONDUITE :scroll:
 Faire preuve d’empathie et de bienveillance envers les autres, respecter tout le monde.
-Être respectueux.se des opinions, points de vue et expériences divergents
+Partez toujours du principe que vos interlocuteur.ice.s sont de bonne foi et bienveillant.e.s.
+Être respectueux.se des opinions, points de vue et expériences divergents.
 Être constructif.ve et bienveillant.e lorsque vous donnez ou recevez des critiques ou feedbacks.
-Se concentrer sur ce qui est le meilleur non pas uniquement pour nous en tant qu’individu, mais aussi pour l’ensemble de la communauté
+Se concentrer sur ce qui est le meilleur non pas uniquement pour nous en tant qu’individu, mais aussi pour l’ensemble de la communauté.
 La politique est partout, dans tous les sujets, on ne peut pas la bannir. Évitez de lancer des débats politiques sans rapport avec le Discord, ne provoquez pas volontairement ceux-ci en sachant qu'ils deviendront stériles et/ou déchaîneront de la haine ou des passions. Sachez quand arrêter une discussion. Demandez-vous si le débat est utile ou si l'on pourrait s'en passer.
 Nos règles ne sont pas des textes de lois. Ne tentez pas de les détourner pour justifier un comportement toxique ou problématique en étant "techniquement dans les clous".
 [Ne soyez pas un.e con.ne](https://knowyourmeme.com/memes/wheatons-law)
