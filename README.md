@@ -23,7 +23,7 @@ Ne tentez pas de les détourner pour justifier un comportement toxique ou probl�
 > La **premiere** fois on **corrige**
 > La **deuxième** fois on **avertit**
 > La **troisième** fois on **exclue temporairement**.
-> La **quatrième** fois c'est une **exclusion permanente**.
+> La **quatrième** fois on **bannit**.
 
 # RÔLES
 > :musical_note: - Sound Designer
