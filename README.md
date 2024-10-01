@@ -17,7 +17,7 @@ Ne tentez pas de les détourner pour justifier un comportement toxique ou probl�
 > La **premiere** fois on **corrige**
 > La **deuxième** fois on **avertit**
 > La **troisième** fois on **exclue temporairement**.
-> La **quatrième** fois on**bannit**.
+> La **quatrième** fois on **bannit**.
 
 # :rainbow_flag: EXEMPLE DE BONNE CONDUITE :rainbow_flag:
 - Je me présente et j'accueille les nouveaux venus
