@@ -14,14 +14,13 @@ Bienvenue sur le serveur Discord de **Godot Francophone**. Nous sommes la commun
 Ne tentez pas de les détourner pour justifier un comportement toxique ou problématique en étant __techniquement dans les clous__.
 
 # :scream:  MISE EN APPLICATION :scream:
-> La **premiere** fois on **corrige**
-> La **deuxième** fois on **avertit**
-> La **troisième** fois on **exclue temporairement**.
-> La **quatrième** fois on **bannit**.
+> La **premiere** fois on **avertit**
+> La **deuxième** fois on **exclue temporairement**
+> La **troisième** fois on **bannit**.
 
 # :rainbow_flag: EXEMPLE DE BONNE CONDUITE :rainbow_flag:
 - Je me présente et j'accueille les nouveaux venus
-- Je pose mes questions dans la catégorie **Aide**. Posez-vos questions directement, ne demandez pas la permission
+- Je pose mes questions dans la catégorie **Aide**. Posez-vos questions directement, ne demandez pas la permission.
 - J'ai fait un super jeu/logiciel et j'en parle dans la catégorie **Vitrine**.
 
 # RÔLES
