@@ -1,22 +1,37 @@
-# GODOT FRANCOPHONE - CODE DE BONNE CONDUITE
+# :wave: BIENVENUE ! :wave:
+Bienvenue sur le serveur Discord de **Godot Francophone**. Nous sommes la communauté francophone officielle de Godot Engine. Nous proposons de l’aide à celles et ceux qui souhaitent se lancer dans l’utilisation de Godot, et nous contribuons à l’amélioration du moteur.
 
-La communauté francophone liée au projet Godot est une communauté ouverte à tous, dont l’objectif est de procurer à tous ceux qui s’intéressent au moteur de jeu Godot, à quelque titre que ce soit, un environnement de discussion et d’entraide agréable, efficace et ouvert. Cette communauté s’organise autour de la chaîne Discord [lien vers la chaîne].
+# :scroll: CODE DE CONDUITE :scroll:
+- Faire preuve d’__empathie__ et de __bienveillance__ envers les autres, __respecter tout le monde__.
+- Partez toujours du principe que vos interlocuteur.ice.s sont de __bonne foi et bienveillant.e.s__.
+- Être respectueux.se des opinions, points de vue et expériences divergents.
+- Être constructif.ve et bienveillant.e lorsque vous donnez ou recevez des critiques ou feedbacks.
+- Se concentrer sur ce qui est le meilleur non pas uniquement pour nous en tant qu’individu, mais aussi pour l’ensemble de la communauté.
+- __Évitez de lancer des débats politiques__
+- __Nos règles ne sont pas des textes de lois.__
+- On ne partage que du contenu **légal** (pas de version crackée de logiciel, de jeu, de film ou autre)
 
-Le présent code de bonne conduite vise à poser certains principes pour s’assurer que les échanges au sein de la communauté francophone en respectent la philosophie et les objectifs. La philosophie générale de la communauté Godot est exprimée dans un document publié sur le site officiel Godot (https://godotengine.org/code-of-conduct), auquel il est ici renvoyé.
+Ne tentez pas de les détourner pour justifier un comportement toxique ou problématique en étant __techniquement dans les clous__.
 
-## 1. Règles de politesse
+# :scream:  MISE EN APPLICATION :scream:
+> La **premiere** fois on **avertit**
+> La **deuxième** fois on **exclue temporairement**
+> La **troisième** fois on **bannit**.
 
-La politesse et la bienveillance sont essentielles. La parole électronique est parfois abrupte et il est important à la fois de présumer que les intentions de vos interlocuteurs sont positives et de s’assurer dans ses propres propos que ceux-ci ne sont pas blessants ou injustement négatifs pour un tiers. Les commentaires sur des tiers, leurs travaux ou contributions sont utiles, mais ils doivent être constructifs, mesurés et formulés en des termes qui n’offensent pas.
+# :rainbow_flag: EXEMPLE DE BONNE CONDUITE :rainbow_flag:
+- Je me présente et j'accueille les nouveaux venus
+- Je pose mes questions dans la catégorie **Aide**. Posez-vos questions directement, ne demandez pas la permission.
+- J'ai fait un super jeu/logiciel et j'en parle dans la catégorie **Vitrine**.
 
-## 2. Discriminations et insultes
+# RÔLES
+> :musical_note: - Sound Designer
+> :video_game: - Game Designer
+> :desktop: - Développeur.euse
+> :joystick: - Membre
+> :tv: - Streamer.euse
+> :pencil2: - Graphiste
+> :flag_gb: - Traducteur.ice
 
-Nous aspirons à procurer à tous un environnement de discussion agréable et ouvert. Les insultes, injures et propos grossiers dirigés contre une personne ou entreprise, de même que tout comportement de harcèlement de quelque nature, sont proscrits. Tous propos discriminatoires, fondés par exemple sur le sexe, la religion, l’orientation sexuelle, la race, l’orientation politique, l’âge, la nationalité, l’apparence physique, ou autres caractéristiques, sont proscrits. Les comportements contraires aux lois applicables sont interdits et il est rappelé que de tels comportements peuvent parfois donner lieu à des poursuites judiciaires.
-
-## 3. Liens, images et contenus
-
-La diffusion de contenus, images et liens contraires à la loi, offensants ou dangereux est proscrite. L’accès à la communauté est ouvert à tous et il faut avoir conscience que les contenus peuvent être accessibles à des mineurs et choisir les contenus diffusés en conséquence. 
-Les canaux de discussion sont dédiés à Godot et il est donc préférable de les utiliser à cette fin. Un canal de discussion général est prévu pour les discussions d’ordre général, afin de ne pas perturber le fonctionnement des autres canaux et permettre une utilisation agréable et efficace pour tous.
-
-## 4. Mise en oeuvre de ce code
-
-Ce code sera mis en œuvre par l’équipe d’administrateurs de la chaîne Discord de la communauté francophone. Les violations constatées pourront donner lieu à des mises en garde, voire à l’exclusion de la ou des personnes concernées. Tous message contraire à ce code pourra être effacé. 
+[Notre site **Godot Francophone**](https://www.godot-francophone.org/)
+Invitation vers le Discord: https://discord.gg/3CMTSku
+Discord officiel Godot international: <https://discord.gg/bdcfAYM4W9>
